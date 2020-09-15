@@ -1,13 +1,13 @@
 # AWS Shared State Store for Terraform
 
-This module creates an encrypted and versioned S3 Bucket and DynamoDB table to be used as a locking shared state stor for Terraform.
+This module creates an encrypted and versioned S3 Bucket and DynamoDB table to be used as a locking shared state store for Terraform.
 
 <!-- BEGINNING OF PRE-COMMIT-TERRAFORM DOCS HOOK -->
 ## Requirements
 
 | Name | Version |
 |------|---------|
-| terraform | ~> 0.12.6 |
+| terraform | ~> 0.12.29 |
 | aws | ~> 2.53 |
 
 ## Providers
